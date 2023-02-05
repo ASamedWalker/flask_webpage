@@ -1,0 +1,12 @@
+body {
+  padding-top: 70px;
+}
+
+.contentA .card-body {
+  background-color: #1b2653;
+  color: aliceblue;
+}
+
+.contentA .card {
+  background-color: none !important;
+}
